@@ -36,10 +36,10 @@ Information about the *occasional drivers* is available in rows `t+c+1, t+c+2, .
 - *lat_des* and *lon_des*: The latitude and longitude of the driver’s destination.
 - *max_capacity*: The maximum weight the driver can carry.
 - *max_distance*: The maximum distance the driver is willing to travel to deliver the order.
-- *fee*: The minimum compensation required by the driver for making the delivery.
+- *fee*: The minimum compensation the driver requires for the delivery.
 
-##### Classical vehicles
-The details of the *classical vehicles* are listed in rows `t+c+o+1, t+c+o+2, ..., t+c+o+v`:
+##### Permanent fleet
+The details of the vehicles belonging to the *permanent fleet* are listed in rows `t+c+o+1, t+c+o+2, ..., t+c+o+v`:
 - *lat_or* and *lon_or*: The latitude and longitude of the vehicle’s origin.
 - *lat_des* and *lon_des*: The latitude and longitude of the vehicle’s destination.
 - *max_capacity*: The maximum weight the vehicle can carry.

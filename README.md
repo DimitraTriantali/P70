@@ -15,7 +15,7 @@ The corresponding parameter values per scenario were also used as the naming con
 
 The first row of the dataset contains details about the *`permanent installations`* of the company. The "lat_or" and "lon_or" columns represent the depot's latitude and longitude, respectively, while the "lat_des" and "lon_des" columns indicate the latitude and longitude of the node where the company's permanent fleets finish their routes, respectively. 
 
-If the dataset includes *`transshipment nodes`*, their information is listed in rows 1,2,…,t. For each transshipment node, the columns "lat_or" and "lon_or" indicate its latitude and longitude, respectively, while the "max_capacity" column denotes its maximum capacity. 
+The information of the *`transshipment nodes`* is listed in rows 1,2,…,t. For each transshipment node, the columns "lat_or" and "lon_or" indicate its latitude and longitude, respectively, while the "max_capacity" column denotes its maximum capacity. 
 
 The information of *`customers`* is provided in the rows indexed by t+1,t+2,...,t+c. For each customer, the columns "lat_or" and "lon_or" indicate the latitude and longitude of his location, respectively. The "demand" column denotes the weight of his order.
 

@@ -1,4 +1,4 @@
-## Data-driven approach for optimized last-mile delivery with transshipment nodes and occasional drivers.
+## Data-driven approach for cost-optimized last-mile delivery with transshipment nodes and occasional drivers.
 - Dimitra G. Triantali (d.triantali@uoi.gr)
 - Konstantinos E. Parsopoulos (kostasp@uoi.gr)
 - Konstantina Skouri (kskouri@uoi.gr)

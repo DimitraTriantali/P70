@@ -53,7 +53,7 @@ The *emergency vehicle* information is provided in the last row:
 - *fee*: The cost per unit of distance traveled.
 
 ### Additional resources
-- The folder [distances](https://github.com/DimitraTriantali/P70/tree/fa9a7eae01c4f540c02efa999c567fcbf00a21c3/data/distances) contains the pre-calculated distances between the nodes for each scenario.
+- The folder [distances](https://github.com/DimitraTriantali/P70/tree/fa9a7eae01c4f540c02efa999c567fcbf00a21c3/data/distances) contains the distances between the nodes for each scenario.
 - The folder [probabilities](https://github.com/DimitraTriantali/P70/tree/fa9a7eae01c4f540c02efa999c567fcbf00a21c3/data/probabilities) includes the predicted acceptance probabilities of the occasional drivers, along with the historical data used to train the machine learning models.
 
 ## Licence
